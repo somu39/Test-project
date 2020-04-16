@@ -1,6 +1,6 @@
-apple 
-orange
-grapes
-watermelons
-carrot
+apple  36
+orange 44 
+grapes 33 
+watermelons 14
+carrot 30
 all in one rate 180
